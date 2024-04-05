@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Graziele</h1>
-<h3 align="center">A passionate Data Science student from Brazil</h3>
+<h3 align="center">A passionate Data Science and Information System student from Brazil</h3>
 
 - 🔭 I’m currently working on **data analysis and data visualization.**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Genetics, Power BI and Python**
 
-- 📫 How to reach me **gpca.bio@gmail.com**
+- 📫 How to reach me **grazibioinfo@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/grazielepcalmeida/](https://www.linkedin.com/in/grazielepcalmeida/)
 
