@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Genetics, Power BI and Python**
 
-- 📫 How to reach me **grazibioinfo@gmail.com**
+- 📫 How to reach me **grazi.analytics@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/grazielepcalmeida/](https://www.linkedin.com/in/grazielepcalmeida/)
 
